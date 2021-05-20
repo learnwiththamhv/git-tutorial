@@ -1,2 +1,0 @@
-Feature 01
-Bug fixed for feature 01
